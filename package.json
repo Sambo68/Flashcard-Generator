@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "js-constructors hm",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambo68/Flashcard-Generator.git"
+  },
+  "author": "ima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sambo68/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Sambo68/Flashcard-Generator#readme"
+}
